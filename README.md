@@ -32,6 +32,14 @@ I have given The previleges for User is to first Login into Account After it wil
 it conatins the previleges like crud operations and and after succesful login into account index page contain list of employees in that database.
 
 
+## Admin Options
+- Delete The Account
+- Update The Account
+- Select The Account
+-  Retrive The Information
+
+
+
 ![emp](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
