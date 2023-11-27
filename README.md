@@ -27,3 +27,11 @@ I have given The previleges for User is to first Login into Account After it wil
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
+## Admin Module
+
+it conatins the previleges like crud operations and and after succesful login into account index page contain list of employees in that database.
+
+
+![emp](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
