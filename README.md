@@ -43,4 +43,13 @@ it conatins the previleges like crud operations and and after succesful login in
 
 ![emp](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+## Index Page
+
+| Name of employe   |     role        |   Employeid  |  Email            |
+| ----------------- | --------------- |  ------------|-------------------|
+| naveen            |  Junior Develoer| emp001       |nav@gmail.com      |
+| sai               |  it             | emp002       |sai@gmail.com      |                       
+| eliyaz            |   BDE           | emp003       |eliyaz@gmail.com   |
+|naveed             |   Manager       | emp004       |naveed@gmail.com   |
+|-------------------|-----------------|--------------|-------------------|
 
