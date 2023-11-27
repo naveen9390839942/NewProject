@@ -51,5 +51,5 @@ it conatins the previleges like crud operations and and after succesful login in
 | sai               |  it             | emp002       |sai@gmail.com      |                       
 | eliyaz            |   BDE           | emp003       |eliyaz@gmail.com   |
 |naveed             |   Manager       | emp004       |naveed@gmail.com   |
-|-------------------|-----------------|--------------|-------------------|
+|                   |                 |              |                   |
 
