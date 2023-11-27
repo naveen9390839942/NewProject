@@ -20,7 +20,6 @@ I have given The previleges for User is to first Login into Account After it wil
 
           ** DiaGrams**
 
-          ![Screenshot (81)](https://github.com/naveen9390839942/NewProject/assets/129715479/312598d3-b367-462a-8eba-bb81a12ae4a5)
 
 
 
