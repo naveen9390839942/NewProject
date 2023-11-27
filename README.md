@@ -16,4 +16,7 @@ I have given The previleges for User is to first Login into Account After it wil
 
 **3.Exit**
 
+![emp1](https://github.com/naveen9390839942/NewProject/assets/129715479/899f7b53-83b7-49f3-8d42-3a36aa8f916c)
+![emp](https://github.com/naveen9390839942/NewProject/assets/129715479/899f7b53-83b7-49f3-8d42-3a36aa8f916c)
+
 
